@@ -12,4 +12,5 @@
 - Workers’ compensation: CSLB lists an exemption (certified no employees as of the check). Marketing pages do not mention WC status.
 - Demo form: client-only acknowledgment; does not transmit.
 - `/outreach` operator route added, excluded from nav/footer/robots.
-- GitHub repo created: Novenworks/Villa-Pools-Demo.
+- Production: https://villa-pools-demo.vercel.app (Vercel project `villa-pools-demo`, SSO protection off).
+

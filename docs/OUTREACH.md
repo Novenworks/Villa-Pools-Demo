@@ -1,7 +1,6 @@
 # Outreach notes
 
-Canonical operator brief is the `/outreach` route (unlinked, noindex). Keep this file in sync if talking points change.
+Canonical operator brief: https://villa-pools-demo.vercel.app/outreach
 
-GitHub: https://github.com/Novenworks/Villa-Pools-Demo
-
-Replace `[DEPLOYED_URL]` in the email templates after production promote.
+GitHub: https://github.com/Novenworks/Villa-Pools-Demo  
+Production: https://villa-pools-demo.vercel.app

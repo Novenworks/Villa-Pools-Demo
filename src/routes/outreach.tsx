@@ -77,7 +77,12 @@ function OutreachPage() {
                 Novenworks/Villa-Pools-Demo
               </a>
             </li>
-            <li>Deployed URL: see production host after Vercel promote.</li>
+            <li>
+              Deployed URL:{" "}
+              <a className="underline" href="https://villa-pools-demo.vercel.app">
+                https://villa-pools-demo.vercel.app
+              </a>
+            </li>
           </ul>
         </section>
 
@@ -250,7 +255,7 @@ Two things stood out. The photography you already publish — dusk vanishing edg
 
 The concept uses your existing images and facts only. It does not invent reviews, awards, or project counts.
 
-If it is useful as a conversation piece: [DEPLOYED_URL]
+If it is useful as a conversation piece: https://villa-pools-demo.vercel.app
 The current live site remains yours.
 
 Vincent
@@ -260,7 +265,7 @@ Novenworks`}
           <pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">
             {`Lester — short follow-up on the Villa Pools concept site I sent. Happy to walk through it for ten minutes, or to leave it with you. Either way the live site is untouched.
 
-[DEPLOYED_URL]`}
+https://villa-pools-demo.vercel.app`}
           </pre>
         </section>
 
