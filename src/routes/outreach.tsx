@@ -241,31 +241,36 @@ function OutreachPage() {
           <h2 className="text-lg font-semibold">Outreach copy</h2>
           <h3 className="font-semibold">Subject lines</h3>
           <ol className="list-decimal space-y-1 pl-5">
-            <li>Lester — a concept site built around Villa Pools’ own photography</li>
-            <li>The C-53 / landscape architect story is stronger than the current homepage</li>
-            <li>Speculative redesign for villapoolsinc.com (not a pitch deck)</li>
-          </ol>
+<li>Lester, I made something for Villa Pools,</li>
+<li>Had an idea for Villa Pools,</li>
+<li>Lester, I tried something with the Villa Pools, site</li>
+</ol>
           <h3 className="mt-4 font-semibold">Cold email</h3>
           <pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">
-            {`Lester —
+            {`Hi Lester,
 
-I was looking at villapoolsinc.com and built a speculative homepage concept for Villa Pools. It is not a client project, and I am not writing as if you asked for it.
+I found Villa Pools, and got curious enough to spend some time on the site.
 
-Two things stood out. The photography you already publish — dusk vanishing edges, the geometric spas, the community pool — is the real credibility of the business, but the live site still leads with a 2021 copyright and copy errors (“Commerical,” “botique,” “Unparralled”). And the fact that you hold both RLA #1879 and C-53 #1004609 is easy to miss unless someone reads the about page.
+There is already a lot there to work with, especially the real project work and the finished results. I ended up building a homepage concept around that.
 
-The concept uses your existing images and facts only. It does not invent reviews, awards, or project counts.
+https://villa-pools-demo.vercel.app
 
-If it is useful as a conversation piece: https://villa-pools-demo.vercel.app
-The current live site remains yours.
+Not trying to turn this into a big pitch. I just thought it was worth making and showing you.
 
 Vincent
 Novenworks`}
           </pre>
           <h3 className="font-semibold">Follow-up</h3>
           <pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">
-            {`Lester — short follow-up on the Villa Pools concept site I sent. Happy to walk through it for ten minutes, or to leave it with you. Either way the live site is untouched.
+            {`Hi Lester,
 
-https://villa-pools-demo.vercel.app`}
+Circling back once on this. I made that homepage concept for Villa Pools, and figured it was worth one more send.
+
+https://villa-pools-demo.vercel.app
+
+If it is not on your radar right now, all good.
+
+Vincent`}
           </pre>
         </section>
 
