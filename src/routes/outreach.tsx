@@ -239,40 +239,30 @@ function OutreachPage() {
 
         <section className="mt-10 space-y-4 text-sm leading-relaxed">
           <h2 className="text-lg font-semibold">Outreach copy</h2>
-          <h3 className="font-semibold">Subject lines</h3>
-          <ol className="list-decimal space-y-1 pl-5">
-<li>Lester, I made something for Villa Pools,</li>
-<li>Had an idea for Villa Pools,</li>
-<li>Lester, I tried something with the Villa Pools, site</li>
-</ol>
-          <h3 className="mt-4 font-semibold">Cold email</h3>
-          <pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">
-            {`Hi Lester,
+          <h3 className="font-semibold">Subject lines</h3><ol className="list-decimal space-y-1 pl-5"><li>Lester, I made something for Villa Pools,</li><li>Had an idea for Villa Pools,</li><li>Tried something with the Villa Pools, site</li></ol><h3 className="mt-4 font-semibold">Cold email</h3><pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">{`Hi Lester,
 
-I found Villa Pools, and got curious enough to spend some time on the site.
+I came across Villa Pools, Inc. and ended up spending some time looking through the site.
 
-There is already a lot there to work with, especially the real project work and the finished results. I ended up building a homepage concept around that.
+The real work is already the strongest part of the story.
+
+I had an idea for how I'd present it, so I built a version instead of sending you a bunch of suggestions.
 
 https://villa-pools-demo.vercel.app
 
-Not trying to turn this into a big pitch. I just thought it was worth making and showing you.
+Thought you might be curious to see it.
+
+If you like the direction, I can show you what I changed.
 
 Vincent
-Novenworks`}
-          </pre>
-          <h3 className="font-semibold">Follow-up</h3>
-          <pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">
-            {`Hi Lester,
+Novenworks`}</pre><h3 className="font-semibold">Follow-up</h3><pre className="whitespace-pre-wrap rounded-lg bg-zinc-900 p-4 text-[13px] leading-relaxed text-zinc-200">{`Hi Lester,
 
-Circling back once on this. I made that homepage concept for Villa Pools, and figured it was worth one more send.
+Just bumping this once in case it got buried. I put together that Villa Pools, concept and wanted to make sure you saw it.
 
 https://villa-pools-demo.vercel.app
 
-If it is not on your radar right now, all good.
+All good if it's not something you're looking at right now.
 
-Vincent`}
-          </pre>
-        </section>
+Vincent`}</pre></section>
 
         <section className="mt-10 space-y-4 text-sm">
           <h2 className="text-lg font-semibold">Capture package</h2>
